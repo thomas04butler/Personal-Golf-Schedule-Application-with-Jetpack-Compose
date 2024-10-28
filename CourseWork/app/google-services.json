@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "108029399723",
+    "project_id": "coursework-babf2",
+    "storage_bucket": "coursework-babf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108029399723:android:d86d5122b68da110fa1dee",
+        "android_client_info": {
+          "package_name": "com.example.coursework"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkJnDm4QZm94vf7ly0aYoljf3D2xCZcZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
